@@ -1,0 +1,26 @@
+Windows Power Shell Commands
+
+
+
+cd              = change directory
+cd ..           = backup directory
+ls              = show files in directory
+pwd             = show directory path
+
+
+mkdir           = make new directory
+New-Item        = make new file
+
+Protocol for Nancy
+dnu restore     = must be run every time the .json file is changed or updated in any way.
+
+dnx kestrel     = runs kestrel application
+
+
+
+
+
+-------------------
+
+using           = directive, tells Csharp our code is using a piece of code, like a class or object.
+@model          = targets Razor framework, instead of Nancy
